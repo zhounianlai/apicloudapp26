@@ -1,0 +1,33 @@
+ <widget id="A6018620637788"  version="0.0.1">
+    <name>student</name>
+    <description>
+        Example For APICloud.
+    </description>
+    <author >
+
+        Developer
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+  	<preference value="false" name="pageBounce"/>
+	<preference value="rgba(255,255,255,0.7)" name="appBackground"/>
+	<preference value="rgba(0,0,0,0.0)" name="windowBackground"/>
+	<preference value="rgba(0,0,0,0.0)" name="frameBackgroundColor"/>
+	<preference value="false" name="hScrollBarEnabled"/>
+	<preference value="false" name="vScrollBarEnabled"/>
+	<preference value="true" name="autoLaunch"/>
+	<preference value="false" name="fullScreen"/>
+	<preference value="true" name="autoUpdate"/>
+	<preference value="false" name="smartUpdate"/>
+	<!-- <preference value="true" name="debug"/> -->
+	<preference value="false" name="statusBarAppearance"/>
+	<!-- <permission name="readPhoneState"/> -->
+	<!-- <permission name="camera"/>-->
+	<!-- <permission name="record"/> -->
+	<!-- <permission name="location"/> -->
+	<!-- <permission name="fileSystem"/>-->
+	<!-- <permission name="internet"/> -->
+	<!-- <permission name="bootCompleted"/> -->
+	<!-- <permission name="hardware"/> -->		<permission name="camera"/>	<permission name="fileSystem"/>
+
+</widget>

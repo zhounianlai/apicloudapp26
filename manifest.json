@@ -1,0 +1,13 @@
+{
+  "name": "Ionic",
+  "short_name": "Ionic",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/img/jjw.png",
+    "sizes": "150x150",
+    "type": "image/png"
+  }],
+  "background_color": "#ffffff",
+  "theme_color": "#0E97DB"
+}
